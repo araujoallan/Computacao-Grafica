@@ -1,0 +1,9 @@
+<aplicacao>
+	<janela>
+		<largura>300</largura>
+		<altura>300</altura>
+		<fundo corR="0.2" corG="0.5" corB="0"></fundo>
+		<titulo>Meu quadrado que arrasta</titulo>
+	</janela>
+	<quadrado tamanho="30" corR="0" corG="0.5" corB="1"></quadrado>
+</aplicacao>
